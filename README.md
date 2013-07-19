@@ -1,16 +1,3 @@
-
-## Usage
-
-```puppet
-```
-
-## Required Puppet Modules
-
-* `boxen`
-
-
-======
-
 # DavMail Puppet Module for Boxen
 
 Install [DavMail](http://davmail.sourceforge.net/), a POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange gateway.
