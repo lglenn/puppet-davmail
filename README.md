@@ -2,6 +2,8 @@
 
 Install [DavMail](http://davmail.sourceforge.net/), a POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange gateway.
 
+[![Build Status](https://travis-ci.org/lglenn/puppet-davmail.png?branch=master)](https://travis-ci.org/lglenn/puppet-davmail)
+
 ## Usage
 
 ```puppet
